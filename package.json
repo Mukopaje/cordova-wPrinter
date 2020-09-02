@@ -1,0 +1,17 @@
+{
+  "name": "cordova.windows.printer",
+  "version": "1.0.0",
+  "description": "cordova plugin to print direct to windows selected printer",
+  "cordova": {
+    "id": "cordova.windows.printer",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Mukopaje Singogo",
+  "license": "ISC"
+}
